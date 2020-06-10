@@ -1,0 +1,51 @@
+.jumbotron{ 
+    background-image: url('./img/3.jpg');
+    background-size: cover;
+    height: 750px;
+    margin-top: -200px;
+
+}
+.jumbotron .display-4{
+    color: white;
+    margin-top :240px;
+}
+.jumbotron p{
+    color: white;
+    font-size: 25px;
+}
+.jumbotron hr{
+    border-color: white;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: #fff;
+    border: none;
+    color: blueviolet;
+    margin-top: 20px;
+}
+.jumbotron .btn:hover{
+    background-color: #fefefe;
+    transition: .5s;
+    color: black;
+}
+.carousel-item{
+    height: 675px;
+}
+.carousel-item img{
+    margin-top: -120px;
+}
+.carousel-item .display-4{
+    margin-top: -500px;
+}
+.carousel-item hr{
+    border-color: white;
+    width: 70px;
+    border-width: 3px;
+}
+.carousel-item .btn{
+    background-color: #fff;
+    border: none;
+    color: blueviolet;
+    margin-top: 20px;
+}
